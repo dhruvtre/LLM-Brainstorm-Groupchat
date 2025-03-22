@@ -1,0 +1,18 @@
+# Python backend
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# React frontend
+node_modules/
+dist/
+.DS_Store
+
+# API keys
+*.pem
+*.key
+
+# Editor files
+.vscode/
+.idea/
